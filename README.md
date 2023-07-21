@@ -1,0 +1,2 @@
+# RegulacionLog
+Modulo de logica
